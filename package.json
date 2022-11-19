@@ -1,0 +1,19 @@
+{
+  "name": "eatit",
+  "version": "1.0.0",
+  "description": "Receitas",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philippluca123/EatIT.git"
+  },
+  "author": "Philipp, Isaque, Ana, Natália, João",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philippluca123/EatIT/issues"
+  },
+  "homepage": "https://github.com/philippluca123/EatIT#readme"
+}

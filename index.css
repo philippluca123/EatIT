@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+header{
+    display: flex;
+    align-items: center;
+    background-color: red;
+    color: #fff;
+    padding: 2vh;
+    box-shadow: black 10px 10px 70px;
+}
