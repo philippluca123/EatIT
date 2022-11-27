@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Marker Felt, fantasy;
+    background-color: #330A04;
+
+}
+
+
+header{
+    width: 100%;
+    position: fixed;
+    height: 13% ;
+    display: flex;
+    align-items: center;
+    background-color: #B32900;
+    color: #fff;
+    padding: 2%;
+    box-shadow: rgb(0, 0, 0) 0px 0px 10px;
+
+}
+h1{
+    padding-right: 10vh ;
+}
+nav a{
+    padding-right: 4vh;
+}
